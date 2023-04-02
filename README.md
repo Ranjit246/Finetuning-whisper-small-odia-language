@@ -2,7 +2,9 @@
 
 Fine tuned Model can be found here: [On huggingface](https://huggingface.co/Ranjit/Whisper_Small_Odia_CV_11.0_5k_steps/)
 
-odel is a fine-tuned version of [Ranjit/Whisper_Small_Odia_10k_steps](https://huggingface.co/Ranjit/Whisper_Small_Odia_10k_steps) on the [mozilla-foundation/common_voice_11_0 or](https://huggingface.co/datasets/mozilla-foundation/common_voice_11_0) dataset.
+### More Description: 
+
+This Model is a fine-tuned version of [Ranjit/Whisper_Small_Odia_10k_steps](https://huggingface.co/Ranjit/Whisper_Small_Odia_10k_steps) on the [mozilla-foundation/common_voice_11_0 or](https://huggingface.co/datasets/mozilla-foundation/common_voice_11_0) dataset.
 It achieves the following results on the evaluation set:
 - Loss: 0.4827
 - Wer: 23.4979
