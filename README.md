@@ -31,11 +31,3 @@ The following hyperparameters were used during training:
 | 0.0           | 150.0 | 3000 | 0.4827          | 23.4979 |
 | 0.0           | 200.0 | 4000 | 0.4914          | 23.8928 |
 | 0.0           | 250.0 | 5000 | 0.4953          | 23.7800 |
-
-
-### Framework versions
-
-- Transformers 4.28.0.dev0
-- Pytorch 2.0.0+cu117
-- Datasets 2.10.1
-- Tokenizers 0.13.2
